@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "武功山gogogo"
-date: 2025-08-08 15:00:00 +0800
+date: 2025-08-07 15:00:00 +0800
 categories: [生活]
 tags: [开始]
 ---
